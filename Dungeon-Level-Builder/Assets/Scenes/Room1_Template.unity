@@ -346,9 +346,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 137513917673098839, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1967958381489458685, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
       propertyPath: m_Name
       value: Room1_Template
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076198326494774872, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6286248221487379269, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245810237214080987, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 8857164005613913596, guid: a1777ac367fcd56409d62b83303f5748, type: 3}
       propertyPath: m_LocalPosition.x
